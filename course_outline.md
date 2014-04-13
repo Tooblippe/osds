@@ -4,11 +4,9 @@
 
 
 1. Data Scientist’s Toolbox
-
-2. Programming tools
-
-2.1 R Programming
-2.2 Python
+2. Programming
+  * R Programming
+  * Python Programming
 
 3. Getting and Cleaning Data
 
