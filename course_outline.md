@@ -1,3 +1,4 @@
+# Basic course outline for brain stormin
 
 (basic flow from coursera course)
 
