@@ -7,8 +7,8 @@
 
 2. Programming tools
 
-  * R Programming
-  * Python
+2.1 R Programming
+2.2 Python
 
 3. Getting and Cleaning Data
 
@@ -25,3 +25,6 @@
 9. Developing Data Products
 
 10 Project
+
+# Resources
+
