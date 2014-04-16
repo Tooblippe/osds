@@ -38,5 +38,5 @@
 * 
 
 # Books
-* Comprehensive list of books - (Forked from Github) [https://github.com/Tooblippe/free-data-science-books/blob/master/free-data-science-books.md]
+* Comprehensive list of books - [Forked from Github] (https://github.com/Tooblippe/free-data-science-books/blob/master/free-data-science-books.md)
 
