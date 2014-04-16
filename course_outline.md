@@ -27,7 +27,7 @@
 # Online courses
 
 * Course ideas -  [coursera](http://www.coursera.org)
-* Udacity - [Exploratory Data Analysis)(https://www.udacity.com/course/ud651)
+* Udacity - [Exploratory Data Analysis](https://www.udacity.com/course/ud651)
 * Udacity - [Statistics](https://www.udacity.com/course/st095)
 
 # Interesting problems and examples
