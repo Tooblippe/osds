@@ -26,10 +26,10 @@
 
 # Resources
 
-# Course ideas -  [coursera](http://www.coursera.org)
+* Course ideas -  [coursera](http://www.coursera.org)
 
 
-# Classification - [Predicting Titanic survival](https://www.kaggle.com/c/titanic-gettingStarted)
-# Classification - [Digits Recongniser](https://www.kaggle.com/c/digit-recognizer)
-# Recomender -     [Beer recomender ](http://nbviewer.ipython.org/gist/anonymous/20a18d52c539b87de2af)
-# Customer Churn - [Predicting Customer Churn](http://blog.yhathq.com/posts/predicting-customer-churn-with-sklearn.html)
+* Classification - [Predicting Titanic survival](https://www.kaggle.com/c/titanic-gettingStarted)
+* Classification - [Digits Recongniser](https://www.kaggle.com/c/digit-recognizer)
+* Recomender -     [Beer recomender ](http://nbviewer.ipython.org/gist/anonymous/20a18d52c539b87de2af)
+* Customer Churn - [Predicting Customer Churn](http://blog.yhathq.com/posts/predicting-customer-churn-with-sklearn.html)
