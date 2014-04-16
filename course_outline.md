@@ -1,4 +1,4 @@
-# Basic course outline for brain stormin
+# Basic course outline for brain storming
 
 (basic flow from coursera course)
 
