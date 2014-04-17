@@ -45,3 +45,4 @@
 * [Anaconda]()
 * [Orange](http://orange.biolab.si/)
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/index.html)
+* [knime](http://www.knime.org/)
