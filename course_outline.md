@@ -42,6 +42,6 @@
 
 
 # Free and Open Source Tools
-* [Anoconda]()
+* [Anaconda]()
 * [Orange](http://orange.biolab.si/)
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/index.html)
