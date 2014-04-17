@@ -40,3 +40,8 @@
 # Books
 * Comprehensive list of books - [Forked from Github] (https://github.com/Tooblippe/free-data-science-books/blob/master/free-data-science-books.md)
 
+
+# Free and Open Source Tools
+* [Anoconda]()
+* [Orange](http://orange.biolab.si/)
+* [Weka](http://www.cs.waikato.ac.nz/ml/weka/index.html)
