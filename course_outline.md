@@ -41,7 +41,8 @@
 * Comprehensive list of books - [Forked from Github] (https://github.com/Tooblippe/free-data-science-books/blob/master/free-data-science-books.md)
 
 
-# Free and Open Source Tools (adapted from [this post](http://www.junauza.com/2010/11/free-data-mining-software.html) )
+# Free and Open Source Tools 
+(adapted from [this post](http://www.junauza.com/2010/11/free-data-mining-software.html) )
 * [Anaconda]()
 * [Orange](http://orange.biolab.si/)
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/index.html)
