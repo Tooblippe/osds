@@ -2,11 +2,7 @@
 
 
 ## Background
-Java web developer training is aimed at students wishing to skill up in the core Java EE Web technologies or for students who wish to prepare for the Oracle Certified Web Component Developer Certified Expert exams.
-Audience
-This course is intended for students who have a solid foundation of Java SE. This includes understanding of object orientation, basic programming and data structures such as lists, arrays and  sets. An understanding of the HTTP protocol is also recommended.
-
-It teaches programmers familiar with these concepts about Java Enterprise Edition's framework and constructs for developing web based applications.
+The world is quickly being transformed by data-driven insights and prediction. The basic skills required for data analytics on and off the cloud,  statistical modeling, and proficiency with a complex ecosystem of tools and platforms – span a many disciplines and are not easy to obtain through conventional learning. Come and explore the basic techniques of data science, and algorithms for data mining (e.g., clustering and association rule mining), and basic statistical modeling (e.g., linear and non-linear regression). We beleive your analysis workflow should be interactive and achievable using Free and Open Source software. All the tools, platforms and software that we use during this course is Open Source and will run on Windows, Linux and Mac. You wille even get your own cloud server to interact with during the course. 
 
 ## Duration:  
 5 days
