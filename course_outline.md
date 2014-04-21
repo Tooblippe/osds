@@ -61,7 +61,6 @@ Upon completion of this module you will understand the components of a machine l
 ## Developing and Publishing Data Products
 Students will learn how communicate using statistics and statistical products. Emphasis will be paid to communicating uncertainty in statistical results. Students will learn how to create simple web applications of their analysis.
 
-10. Project
 
 ## Sofware
 Install the free software stack from [insightStack](www.insightstack.co.za/downloads)
