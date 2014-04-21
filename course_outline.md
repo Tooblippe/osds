@@ -1,11 +1,34 @@
-<<<<<<< HEAD
-# Basic course outline
-=======
-# Basic course outline for brain storming
->>>>>>> FETCH_HEAD
+# Data Science Course
 
-(basic flow from coursera course)
 
+## Background
+Java web developer training is aimed at students wishing to skill up in the core Java EE Web technologies or for students who wish to prepare for the Oracle Certified Web Component Developer Certified Expert exams.
+Audience
+This course is intended for students who have a solid foundation of Java SE. This includes understanding of object orientation, basic programming and data structures such as lists, arrays and  sets. An understanding of the HTTP protocol is also recommended.
+
+It teaches programmers familiar with these concepts about Java Enterprise Edition's framework and constructs for developing web based applications.
+
+## Duration:  
+5 days
+
+## Format:
+Instructor lead class with 50% lecture and 50% hands-on labs. Students can bring their own laptops and require either Chrome browser 8.0 or better or Firefox 3.6 or later.
+
+
+## Sofware
+Install the free software stack from [insightStack](www.insightstack.co.za/downloads)
+
+* Anaconda Python Distribution
+ 
+* Orange machine learning environmet
+
+* Each learner will also get a personal Virtual Private Server to use during the duration of the course and will be active for at least one month after the course.
+
+
+## Price:
+R14,500 per student (ex vat). (Please request a quote for the latest price.) This includes lunch, tea and course material.
+
+## Course outline
 
 1. Setting up the Data Scientist’s Toolbox and Environment
 2. Programming (Python,R)
