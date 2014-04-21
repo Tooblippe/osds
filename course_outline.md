@@ -32,35 +32,34 @@ Instructor lead class with 50% lecture and 50% hands-on labs. Students can bring
 7. Regression Models
 8. Practical Machine Learning
 9. Developing and Publishing Data Products
-10. Project
 
 ## Setting up the Data Scientist’s Toolbox and Environment
-Upon completion of this course you will be able to identify and classify data science problems. You will also have created your Github account, created your first repository, and pushed your first markdown file to your account.
+Upon completion you will be able to identify and classify data science problems. You will also have created your Github account, created your first repository, and pushed your first markdown file to your account.
 
-## Programming (Python,R)
+## Basic Programming
 Overview of data types and objects, reading and writing data,Control structures, functions, scoping rules, dates and times,Loop functions, debugging tools, simulation, code profiling
 
 ## Getting, Storing and Cleaning Data
-Upon completion of this course you will be able to obtain data from a variety of sources. You will know the principles of tidy data and data sharing. Finally, you will understand and be able to apply the basic tools for data cleaning and manipulation.
+Upon completion you will be able to obtain data from a variety of sources. You will know the principles of tidy data and data sharing. Finally, you will understand and be able to apply the basic tools for data cleaning and manipulation.
 
 
 ## Exploratory Data Analysis
-After successfully completing this course you will be able to make visual representations of data using the base, lattice, and ggplot2 plotting systems in R, apply basic principles of data graphics to create rich analytic graphics from different types of datasets, construct exploratory summaries of data in support of a specific question, and create visualizations of multidimensional data using exploratory multivariate statistical techniques.
+After completing this  you will be able to make visual representations of data using the plotting systems, apply basic principles of data graphics to create rich analytic graphics from different types of datasets, construct exploratory summaries of data in support of a specific question, and create visualizations of multidimensional data using exploratory multivariate statistical techniques.
 
 ## Reproducible Research
-In this course you will learn to write a document using R markdown, integrate live R code into a literate statistical program, compile R markdown documents using knitr and related tools, and organize a data analysis so that it is reproducible and accessible to others.
+In this course you will learn to write a document using R markdown or the IPython notebook, integrate live code into a literate statistical program, compile markdown documents using, and organize a data analysis so that it is reproducible and accessible to others.
 
 ## Statistical Inference
-In this class students will learn the fundamentals of statistical inference. Students will receive a broad overview of the goals, assumptions and modes of performing statistical inference. Students will be able to perform inferential tasks in highly targeted settings and will be able to use  the skills developed as a roadmap for more complex inferential challenges.
+In this section you will learn the fundamentals of statistical inference. Students will receive a broad overview of the goals, assumptions and modes of performing statistical inference. Students will be able to perform inferential tasks in highly targeted settings and will be able to use  the skills developed as a roadmap for more complex inferential challenges.
 
 ## Regression Models
-n this course students will learn how to fit regression models, how to interpret coefficients, how to investigate residuals and variability.  Students will further learn special cases of regression models including use of dummy variables and multivariable adjustment. Extensions to generalized linear models, especially considering Poisson and logistic regression will be reviewed.
+You will learn how to fit regression models, how to interpret coefficients, how to investigate residuals and variability.  Students will further learn special cases of regression models including use of dummy variables and multivariable adjustment. Extensions to generalized linear models, especially considering Poisson and logistic regression will be reviewed.
 
 ## Practical Machine Learning
-Upon completion of this course you will understand the components of a machine learning algorithm. You will also know how to apply multiple basic machine learning tools. You will also learn to apply these tools to build and evaluate predictors on real data.
+Upon completion of this module you will understand the components of a machine learning algorithm. You will also know how to apply multiple basic machine learning tools. You will also learn to apply these tools to build and evaluate predictors on real data.
 
 ## Developing and Publishing Data Products
-Students will learn how communicate using statistics and statistical products. Emphasis will be paid to communicating uncertainty in statistical results. Students will learn how to create simple Shiny web applications and R packages for their data products.
+Students will learn how communicate using statistics and statistical products. Emphasis will be paid to communicating uncertainty in statistical results. Students will learn how to create simple web applications of their analysis.
 
 10. Project
 
