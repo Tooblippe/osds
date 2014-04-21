@@ -33,7 +33,6 @@ Instructor lead class with 50% lecture and 50% hands-on labs. Students can bring
 8. Practical Machine Learning
 9. Developing and Publishing Data Products
 10. Project
-11. 
 
 
 ## Sofware
