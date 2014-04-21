@@ -2,16 +2,14 @@
 
 
 ## Background
-The world is quickly being transformed by data-driven insights and prediction. The basic skills required for data analytics on and off the cloud,  statistical modeling, and proficiency with a complex ecosystem of tools and platforms – span a many disciplines and are not easy to obtain through conventional learning. Come and explore the basic techniques of data science, and algorithms for data mining (e.g., clustering), and basic statistical modeling (e.g., linear and non-linear regression). We beleive your analysis workflow should be interactive and achievable using free and Open Source software. 
+The world is quickly being transformed by data-driven insights and prediction. The basic skills required for data analytics on and off the cloud,  statistical modeling, and proficiency with a complex ecosystem of tools and platforms – span many fields and are not easy to obtain through conventional learning. Come and explore the basic techniques of data science, and algorithms for data mining (e.g., clustering), and basic statistical modeling (e.g., linear and non-linear regression). We beleive your analysis workflow should be interactive and achievable using free and Open Source software. 
 
 This course will enable you and/or your teams to become more productive in their analysis workflow and produce visual interactive insights.
 
 All the tools, platforms and software that we use during this course is Open Source and will run on Windows, Linux and Mac. You wille even get your own cloud server to interact with during the course. 
 
 ## Note
-This is not a programming course but programming knowledge will surely be to hour advantage. The course will focus mostly on Python and R. 
-
-You will however see very little of Excel. 
+This is not a programming course but programming knowledge will surely be to your advantage. The course will focus mostly on Python and R. You will however see very little of Excel!
 
 We are working on a R and Python spesific programming course. Please be in touch for more detail.
 
