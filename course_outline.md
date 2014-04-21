@@ -2,7 +2,11 @@
 
 
 ## Background
-The world is quickly being transformed by data-driven insights and prediction. The basic skills required for data analytics on and off the cloud,  statistical modeling, and proficiency with a complex ecosystem of tools and platforms – span a many disciplines and are not easy to obtain through conventional learning. Come and explore the basic techniques of data science, and algorithms for data mining (e.g., clustering and association rule mining), and basic statistical modeling (e.g., linear and non-linear regression). We beleive your analysis workflow should be interactive and achievable using Free and Open Source software. All the tools, platforms and software that we use during this course is Open Source and will run on Windows, Linux and Mac. You wille even get your own cloud server to interact with during the course. 
+The world is quickly being transformed by data-driven insights and prediction. The basic skills required for data analytics on and off the cloud,  statistical modeling, and proficiency with a complex ecosystem of tools and platforms – span a many disciplines and are not easy to obtain through conventional learning. Come and explore the basic techniques of data science, and algorithms for data mining (e.g., clustering and association rule mining), and basic statistical modeling (e.g., linear and non-linear regression). We beleive your analysis workflow should be interactive and achievable using Free and Open Source software. 
+
+This course will enable you and/or your teams to become more productive in their analysis workflow and produce visual interactive insights.
+
+All the tools, platforms and software that we use during this course is Open Source and will run on Windows, Linux and Mac. You wille even get your own cloud server to interact with during the course. 
 
 ## Duration:  
 5 days
