@@ -39,7 +39,7 @@ R14,500 per student (ex vat). (Please request a quote for the latest price.) Thi
 7. Regression Models
 8. Practical Machine Learning
 9. Developing and Publishing Data Products
-10 Project
+10. Project
 
 # Online courses
 
