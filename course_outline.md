@@ -1,27 +1,17 @@
-# Basic course outline for brain stormin
+# Basic course outline
 
 (basic flow from coursera course)
 
 
-1. Data Scientist’s Toolbox
-2. Programming
-  * R Programming
-  * Python Programming
-
-3. Getting and Cleaning Data
-
+1. Setting up the Data Scientist’s Toolbox and Environment
+2. Programming (Python,R)
+5. Getting, Storing and Cleaning Data
 4. Exploratory Data Analysis
-
 5. Reproducible Research
-
 6. Statistical Inference
-
 7. Regression Models
-
 8. Practical Machine Learning
-
-9. Developing Data Products
-
+9. Developing and Publishing Data Products
 10 Project
 
 # Resources
