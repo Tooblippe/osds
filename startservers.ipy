@@ -1,0 +1,4 @@
+#startservers
+
+!ipython notebook --no-browser --profile=tobie &
+!nohup butterfly.server.py  --unsecure --host="0.0.0.0" &
