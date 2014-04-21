@@ -1,4 +1,4 @@
 #startservers
 
-!nohup ipython notebook --no-browser --profile=tobie &
+!nohup ipython notebook --no-browser --profile=osds &
 !nohup butterfly.server.py  --unsecure --host="0.0.0.0" &
