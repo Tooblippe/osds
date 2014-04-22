@@ -89,13 +89,18 @@ R14,500 per student (ex vat). (Please request a quote for the latest price.) Thi
 * Customer Churn - [Predicting Customer Churn](http://blog.yhathq.com/posts/predicting-customer-churn-with-sklearn.html)
 
 
-# Books
+## Books
 * Comprehensive list of books - [Forked from Github] (https://github.com/Tooblippe/free-data-science-books/blob/master/free-data-science-books.md)
 
 
-# Free and Open Source Tools 
+## Free and Open Source Tools 
 (adapted from [this post](http://www.junauza.com/2010/11/free-data-mining-software.html) )
 * [Anaconda]()
 * [Orange](http://orange.biolab.si/)
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/index.html)
 * [knime](http://www.knime.org/)
+
+
+# Interesting Links
+* NB >>>> [Data Workflows for Machine Learning](http://www.slideshare.net/pacoid/data-workflows-for-machine-learning)
+* <iframe src="http://www.slideshare.net/slideshow/embed_code/30643396?rel=0" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/pacoid/data-workflows-for-machine-learning" title="Data Workflows for Machine Learning - Seattle DAML" target="_blank">Data Workflows for Machine Learning - Seattle DAML</a> </strong> from <strong><a href="http://www.slideshare.net/pacoid" target="_blank">Paco Nathan</a></strong> </div>
