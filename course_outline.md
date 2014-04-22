@@ -105,3 +105,4 @@ R14,500 per student (ex vat). (Please request a quote for the latest price.) Thi
 * NB >>>> [Data Workflows for Machine Learning](http://www.slideshare.net/pacoid/data-workflows-for-machine-learning)
 * NB >>>> [Machine Learning Tutorial](http://www.werc.tu-darmstadt.de/fileadmin/user_upload/GROUP_WERC/LKE/tutorials/ML-tutorial-1-2.pdf)
 * NB >>>> [Cool links to Hierarchical_clustering ](http://en.m.wikipedia.org/wiki/Hierarchical_clustering)
+* NB >>>> [Great link to Python for Data Science] ](http://nbviewer.ipython.org/github/gumption/Python_for_Data_Science/blob/master/Python_for_Data_Science_all.ipynb?utm_source=Python+Weekly+Newsletter&utm_campaign=ef1c091c06-Python_Weekly_Issue_135_April_17_2014&utm_medium=email&utm_term=0_9e26887fc5-ef1c091c06-312687717)
