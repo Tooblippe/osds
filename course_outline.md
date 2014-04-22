@@ -95,12 +95,13 @@ R14,500 per student (ex vat). (Please request a quote for the latest price.) Thi
 
 ## Free and Open Source Tools 
 (adapted from [this post](http://www.junauza.com/2010/11/free-data-mining-software.html) )
-* [Anaconda]()
-* [Orange](http://orange.biolab.si/)
+* Use > [Anaconda]()
+* USe > [Orange](http://orange.biolab.si/)
+* Use > [knime](http://www.knime.org/)
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/index.html)
-* [knime](http://www.knime.org/)
 
 
 # Interesting Links
 * NB >>>> [Data Workflows for Machine Learning](http://www.slideshare.net/pacoid/data-workflows-for-machine-learning)
-* <iframe src="http://www.slideshare.net/slideshow/embed_code/30643396?rel=0" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/pacoid/data-workflows-for-machine-learning" title="Data Workflows for Machine Learning - Seattle DAML" target="_blank">Data Workflows for Machine Learning - Seattle DAML</a> </strong> from <strong><a href="http://www.slideshare.net/pacoid" target="_blank">Paco Nathan</a></strong> </div>
+* NB >>>> [Machine Learning Tutorial](http://www.werc.tu-darmstadt.de/fileadmin/user_upload/GROUP_WERC/LKE/tutorials/ML-tutorial-1-2.pdf)
+* NB >>>> [Cool links to Hierarchical_clustering ](http://en.m.wikipedia.org/wiki/Hierarchical_clustering)
