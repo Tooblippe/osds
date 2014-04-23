@@ -1,6 +1,9 @@
 """Simple tools to style a talk presented from an IPython Notebook.
 
 Author: Fernando Perez <fernando.perez@berkeley.edu>
+
+
+this does not intsall the presentation mode.
 """
 
 #-----------------------------------------------------------------------------

@@ -1,4 +1,7 @@
-#startservers
+# startservers
+# tobie nortje
+# if on course server…start the terminal and ipython notebook servers
+# run “ipython startservers.ipy
 
 !nohup ipython notebook --no-browser --profile=osds &
 !nohup butterfly.server.py  --unsecure --host="0.0.0.0" &
