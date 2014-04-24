@@ -52,6 +52,7 @@ All Python training students receive a copy of O'Reilly's Learning Python and re
 * Structure of a Python script
 * Using the interpreter interactively
 * Running standalone scripts under Unix and Windows
+
 ## Getting Started
 * Using variables
 * String types: normal, raw and Unicode
@@ -60,6 +61,7 @@ All Python training students receive a copy of O'Reilly's Learning Python and re
 * Writing to the screen
 * Command line parameters
 * Reading from the keyboard
+
 ## Flow Control
 * About flow control
 * Indenting is significant
@@ -68,6 +70,7 @@ All Python training students receive a copy of O'Reilly's Learning Python and re
 * Using lists
 * Using the for statement
 * The xrange() function
+
 ## Sequence Data
 * list operations
 * list methods
@@ -75,11 +78,13 @@ All Python training students receive a copy of O'Reilly's Learning Python and re
 * tuples
 * sets
 * Dictionaries
+
 ## Defining Functions
 * Syntax of function definition
 * Formal parameters
 * Global versus local variables
 * Passing parameters and returning values
+
 ## Working with Files
 * Text file I/O overview
 * Opening a text file
@@ -87,6 +92,7 @@ All Python training students receive a copy of O'Reilly's Learning Python and re
 * Raw (binary) data
 * Using the pickle module
 * Writing to a text file
+
 ## Dictionaries and Sets
 * Dictionary overview
 * Creating dictionaries
@@ -94,23 +100,27 @@ All Python training students receive a copy of O'Reilly's Learning Python and re
 * Fetching keys or values
 * Testing for existence of elements
 * Deleting elements
+
 ## Errors and Exception Handling
 * Dealing with syntax errors
 * Exceptions
 * Handling exceptions with try/except
 * Cleaning up with finally
+
 ## Using Modules
 * What is a module?
 * The import statement
 * Function aliases
 * Packages
+
 ## Regular Expressions
 * RE Objects
 * Pattern matching
 * Parsing data
 * Subexpressions
 * Complex substitutions
-* RE tips and tricks
+* RE tips and trick
+
 ## Highlights of the Standard Library
 * Working with the operating system
 * Grabbing web pages
@@ -119,6 +129,7 @@ All Python training students receive a copy of O'Reilly's Learning Python and re
 * math and random
 * Accessing dates and times with datetime
 * Working with compressed files
+
 ## An Introduction to Python Classes
 * About o-o programming
 * Defining classes
