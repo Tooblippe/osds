@@ -52,6 +52,7 @@ All Python training students receive a copy of O'Reilly's Learning Python and re
 * Structure of a Python script
 * Using the interpreter interactively
 * Running standalone scripts under Unix and Windows
+* The IPython interpreter and Notebook
 
 ## Getting Started
 * Using variables
